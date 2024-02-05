@@ -1,0 +1,11 @@
+{
+    "extName": {
+        "message": "Custom New Tab Page"
+    },
+    "extDesc": {
+        "message": "A Customized New Tab Page"
+    },
+    "tabTitle": {
+        "message": "Custom New Tab"
+    }
+}
